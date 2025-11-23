@@ -95,9 +95,5 @@
 ---
 
 <p align="center">
-  <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Dev-Chitrang&icon=0&color=0" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Dev-Chitrang&label=Profile+Views&color=blue&style=flat" />
 </p>
-
