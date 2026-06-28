@@ -5,7 +5,7 @@ Focused on designing and developing backend systems with emphasis on reliability
 
 🔧 Key projects: multi-tenant SaaS backend, ML pipeline system, and AI multi-agent backend (see pinned repositories below)
 
-🌐 [Portfolio](https://dev-chitrang.github.io) · [LinkedIn](https://linkedin.com/in/chitrang-potdar) · [Resume](./Chitrang_Potdar_Resume.pdf) · [Email](mailto:potdarchitrang4@gmail.com)
+🌐 [Portfolio](https://dev-chitrang.github.io) · [LinkedIn](https://linkedin.com/in/chitrang-potdar) · [Email](mailto:potdarchitrang4@gmail.com)
 
 ---
 
